@@ -1,0 +1,2612 @@
+{
+  "me": {
+    "name": "Jelena Jankovic",
+    "email": "jelena.jankovic@gmail.com"
+  },
+  "select-courses": [
+    "Frontend",
+    "Backend",
+    "Web Development",
+    "UX/UI",
+    "Data Science"
+  ],
+  "mentors": [
+    "Bojan Lozo",
+    "Boris Bigovic",
+    "Sandra Djurovic",
+    "Edina Mehmedovic",
+    "Danilo Kujacic"
+  ],
+  "courses": [
+    {
+      "id": 0,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 1,
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ],
+      "endDate": "2023-10-25T14:48:00.000Z",
+      "startDate": "2023-10-26T14:48:00.000Z",
+      "mentor": "Bojan Lozo",
+      "name": "Backend",
+      "year": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2022",
+      "startDate": "2022-10-02T14:48:00.000Z",
+      "endDate": "2022-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 125,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Frontend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 143,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Backend",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 170,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 177,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 190,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 191,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 192,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Fullstack",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 195,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 197,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 198,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 199,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 200,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 201,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 202,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 203,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 204,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 205,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 206,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 207,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "id": 208,
+      "name": "Android development",
+      "mentor": "Bojan Lozo",
+      "year": "2023",
+      "startDate": "2023-10-02T14:48:00.000Z",
+      "endDate": "2023-10-02T14:48:00.000Z",
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ]
+    },
+    {
+      "schedule": [
+        "Sreda"
+      ],
+      "endDate": "2023-02-27T13:08:45.000Z",
+      "startDate": "2023-02-27T13:08:43.000Z",
+      "mentor": "Bojan Lozo",
+      "name": "Frontend",
+      "id": 209
+    },
+    {
+      "id": 210,
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ],
+      "endDate": "2023-11-12T15:48:00.000Z",
+      "startDate": "2023-11-02T18:34:48.000Z",
+      "mentor": "Bojan Lozo",
+      "name": "Frontend",
+      "year": "2022"
+    },
+    {
+      "id": 211,
+      "schedule": [
+        "Ponedeljak",
+        "Utorak",
+        "Sreda",
+        "Cetvrtak",
+        "Petak"
+      ],
+      "endDate": "2023-02-28T18:36:16.000Z",
+      "startDate": "2023-02-27T18:36:14.000Z",
+      "mentor": "Boris Bigovic",
+      "name": "UX/UI"
+    },
+    {
+      "id": 212,
+      "schedule": [
+        "Ponedeljak",
+        "Petak"
+      ],
+      "endDate": "2023-10-19T14:48:00.000Z",
+      "startDate": "2023-10-18T14:48:00.000Z",
+      "mentor": "Bojan Lozo",
+      "name": "Frontend",
+      "year": "2022"
+    },
+    {
+      "schedule": [
+        "Ponedeljak",
+        "Utorak"
+      ],
+      "endDate": "2023-02-28T20:36:49.000Z",
+      "startDate": "2023-02-27T20:36:47.000Z",
+      "mentor": "Edina Mehmedovic",
+      "name": "Web Development",
+      "id": 213
+    },
+    {
+      "schedule": [
+        "Utorak",
+        "Ponedeljak",
+        "Sreda"
+      ],
+      "endDate": "2023-02-28T20:41:51.000Z",
+      "startDate": "2023-02-27T20:41:50.000Z",
+      "mentor": "Sandra Djurovic",
+      "name": "Web Development",
+      "id": 214
+    },
+    {
+      "schedule": [
+        "Ponedeljak",
+        "Utorak"
+      ],
+      "endDate": "2023-02-28T20:44:40.000Z",
+      "startDate": "2023-02-28T20:44:37.000Z",
+      "mentor": "Sandra Djurovic",
+      "name": "Backend",
+      "id": 215
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.ag-theme-alpine {
+  --ag-foreground-color: var(--secondary);
+  --ag-background-color: white;
+  --ag-data-color: var(--secondary);
+  --ag-header-height: 66px;
+  --ag-row-hover-color: var(--table-hover);
+  --ag-border-color: var(--border);
+  --ag-row-border-color: var(--border);
+  --ag-header-foreground-color: var(--secondary);
+  --ag-header-background-color: white;
+  --ag-odd-row-background-color: white;
+  --ag-header-column-resize-handle-color: rgb(126, 46, 132);
+}
+
+.header-hidden {
+  display: none;
+}
+
+.ag-row-hover #actions-div {
+  display: flex;
+}

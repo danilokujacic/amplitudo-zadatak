@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html,
+#root {
+  height: 100%;
+  width: 100%;
+}
+:root {
+  --primary: #00b9ad;
+  --secondary: #384f63;
+  --table-hover: #eefaf9;
+  --border: #e5e5e5;
+  --ltgray: #ababab;
+  --select-data: #4a4a4a;
+}
+.ag-center-cols-container {
+  width: 100% !important;
+}
+
+input:focus {
+  outline: none;
+}
+select:foucs {
+  outline: none;
+}
