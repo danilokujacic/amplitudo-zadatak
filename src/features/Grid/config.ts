@@ -10,8 +10,8 @@ export const colDefs = [
     headerName: "Naziv obuke",
     flex: 2,
     minWidth: 150,
-    cellClass: "  font-bold text-md box-border py-2",
-    headerClass: "w-full uppercase   font-bold text-md flex-1",
+    cellClass: "first-cell  font-bold text-md box-border py-2",
+    headerClass: "w-full uppercase first-cell  font-bold text-md flex-1",
   },
   {
     field: "mentor",

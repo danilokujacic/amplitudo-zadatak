@@ -1,3 +1,4 @@
+import moment from "moment";
 import { CourseData } from "../../shared/types";
 
 export const addCourse = async (data: CourseData) => {
@@ -6,7 +7,7 @@ export const addCourse = async (data: CourseData) => {
     headers: {
       "Content-Type": "application/json",
     },
-    body: JSON.stringify(data),
+    body: JSON.stringify({ ...data, year: moment(data.startDate).year() + "" }),
   });
   return response.json();
 };
@@ -16,7 +17,7 @@ export const editCourse = async (data: CourseData & { id: string }) => {
     headers: {
       "Content-Type": "application/json",
     },
-    body: JSON.stringify(data),
+    body: JSON.stringify({ ...data, year: moment(data.startDate).year() + "" }),
   });
   return response.json();
 };

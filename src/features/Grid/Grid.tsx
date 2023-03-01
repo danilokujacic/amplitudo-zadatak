@@ -1,6 +1,6 @@
 // Library modules
 import { useQuery } from "react-query";
-import { useState } from "react";
+import { useCallback, useState } from "react";
 
 // Components
 import { AgGridReact } from "ag-grid-react";
@@ -32,21 +32,22 @@ const Grid = () => {
   );
 
   // Utilities
-  const handleFiltersChange = (key: string, value: string) => {
-    setFilterValues((prev) => ({ ...prev, [key]: value }));
-  };
+  const handleFiltersChange = useCallback((data: FilterValues) => {
+    setFilterValues(data);
+  }, []);
 
   return (
     <div className="h-full">
-      <div className="flex justify-between items-center pb-10 ">
+      <div className="flex justify-between items-center pb-10 relative z-20">
         <GridFilters handleFiltersChange={handleFiltersChange} />
         <GridActions />
       </div>
-      <div className="ag-theme-alpine w-full h-[65vh] text-secondary">
+      <div className="ag-theme-alpine w-full h-[65vh] text-secondary relative z-10">
         <AgGridReact
           rowData={data}
           columnDefs={columnDefs}
           rowHeight={62}
+          className="rounded-[20px] overflow-hidden border-[1px] border-border"
           animateRows
           paginationPageSize={10}
           pagination

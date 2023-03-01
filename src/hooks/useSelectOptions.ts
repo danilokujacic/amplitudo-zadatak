@@ -2,11 +2,31 @@ import { useQuery } from "react-query";
 import { AsyncSelectOption, SelectOption } from "../shared/types";
 import { useEffect } from "react";
 
+type SelectHookConfig = {
+  enableReset: boolean;
+  resetOption: string;
+};
 const isAsyncOptions = (
   options: SelectOption[] | AsyncSelectOption
 ): options is AsyncSelectOption => !Array.isArray(options);
 
-const useSelectOptions = (options: SelectOption[] | AsyncSelectOption) => {
+const formatOptions = (
+  opts: SelectOption[] | undefined,
+  config?: SelectHookConfig
+) => {
+  if (opts) {
+    if (config && config.enableReset) {
+      return [{ key: null, label: config.resetOption }, ...opts];
+    }
+    return opts;
+  }
+  return undefined;
+};
+
+const useSelectOptions = (
+  options: SelectOption[] | AsyncSelectOption,
+  config?: SelectHookConfig
+) => {
   const checkOptionsAsync = isAsyncOptions(options);
   const {
     data: asyncOpts,
@@ -27,7 +47,12 @@ const useSelectOptions = (options: SelectOption[] | AsyncSelectOption) => {
     }
   }, [options, refetch, checkOptionsAsync]);
 
-  return checkOptionsAsync ? { options: asyncOpts, isLoading } : { options };
+  return checkOptionsAsync
+    ? {
+        options: formatOptions(asyncOpts, config),
+        isLoading,
+      }
+    : { options: formatOptions(options, config) };
 };
 
 export default useSelectOptions;

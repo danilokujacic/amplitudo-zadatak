@@ -6,9 +6,9 @@ import {
 } from "react";
 
 // Icons
-import search from "../../../core/assets/icons//search.svg";
+import search from "../../core/assets/icons/search.svg";
 
-const SearchInput: FunctionComponent<
+const SearchField: FunctionComponent<
   DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement>
 > = (props) => {
   return (
@@ -22,4 +22,4 @@ const SearchInput: FunctionComponent<
   );
 };
 
-export default SearchInput;
+export default SearchField;

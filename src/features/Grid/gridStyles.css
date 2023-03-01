@@ -1,4 +1,5 @@
 .ag-theme-alpine {
+  --ag-borders: none !important;
   --ag-foreground-color: var(--secondary);
   --ag-background-color: white;
   --ag-data-color: var(--secondary);
@@ -8,10 +9,19 @@
   --ag-row-border-color: var(--border);
   --ag-header-foreground-color: var(--secondary);
   --ag-header-background-color: white;
+  --ag-row-border-style: solid;
+  --ag-row-border-width: 1px;
+  --ag-row-border-color: var(--border);
   --ag-odd-row-background-color: white;
   --ag-header-column-resize-handle-color: rgb(126, 46, 132);
 }
 
+.first-cell {
+  padding-left: 40px !important;
+}
+.ag-theme-alpine .ag-header {
+  border-bottom: 1px solid var(--border);
+}
 .header-hidden {
   display: none;
 }

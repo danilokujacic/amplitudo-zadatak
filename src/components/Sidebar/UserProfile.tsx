@@ -1,6 +1,6 @@
-import React from "react";
 import useUser from "../../hooks/useUser";
 import profile from "../../core/assets/icons/profile.svg";
+import { Spin } from "antd";
 
 const UserProfile = () => {
   const { me, hasError } = useUser();
@@ -9,7 +9,11 @@ const UserProfile = () => {
     return <p>User not found</p>;
   }
   if (!me) {
-    return <p>Loading...</p>;
+    return (
+      <div className="w-full h-10 flex items-center justify-center">
+        <Spin size="default" />
+      </div>
+    );
   }
   return (
     <div className="flex items-center w-full">

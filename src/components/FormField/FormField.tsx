@@ -5,7 +5,7 @@ import { FunctionComponent, PropsWithChildren } from "react";
 import { ControllerFieldState } from "react-hook-form";
 
 interface IFormFieldProps {
-  label: string;
+  label?: string;
   required?: boolean;
   fieldState: ControllerFieldState;
   isFormSubmited?: boolean;
@@ -20,10 +20,12 @@ const FormField: FunctionComponent<PropsWithChildren<IFormFieldProps>> = ({
   const { invalid, isDirty, error } = fieldState;
   return (
     <div className="flex flex-col">
-      <label className="text-ltgray font-normal text-[13px] mb-1">
-        {label}&nbsp;
-        {required ? <span className="text-red-500">*</span> : <></>}
-      </label>
+      {label && (
+        <label className="text-ltgray font-normal text-[13px] mb-1">
+          {label}&nbsp;
+          {required ? <span className="text-red-500">*</span> : <></>}
+        </label>
+      )}
       {children}
       {(isDirty || isFormSubmited) && invalid ? (
         <p className="mb-0 mt-1 text-red-500 text-xs font-normal">

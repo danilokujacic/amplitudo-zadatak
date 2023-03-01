@@ -1,65 +1,75 @@
 //Library modules
-import { FunctionComponent } from "react";
-
-//Utils
-import debounceValue from "../../utils/debounceValue";
+import { FunctionComponent, useEffect } from "react";
 
 //Components
-import SearchInput from "../../components/FilterInputs/SearchInput";
-import SelectInput from "../../components/FilterInputs/SelectInput";
-import { DownOutlined } from "@ant-design/icons";
+import { useForm, FormProvider } from "react-hook-form";
+import FormSelectInput from "../../components/FormInputs/SelectInput";
+import { getSelectCourses } from "../../core/api/selectData";
+import FormSearchInput from "../../components/FormInputs/SearchInput";
+import { FilterValues } from "./types";
 
 interface IGridFiltersProps {
-  handleFiltersChange: (key: string, value: string) => void;
+  handleFiltersChange: (data: FilterValues) => void;
 }
 
 const GridFilters: FunctionComponent<IGridFiltersProps> = ({
   handleFiltersChange,
 }) => {
+  const methods = useForm({
+    defaultValues: {
+      searchValue: null,
+      selectedYear: null,
+      selectedCategory: null,
+    },
+  });
+
+  const selectedYear = methods.watch("selectedYear");
+  const selectedCategory = methods.watch("selectedCategory");
+  const searchValue = methods.watch("searchValue");
+
+  useEffect(() => {
+    handleFiltersChange({
+      selectedYear,
+      selectedCategory,
+      searchValue,
+    });
+  }, [selectedYear, selectedCategory, searchValue, handleFiltersChange]);
+
   return (
-    <div className="flex justify-start w-1/2 xl:space-x-[14px] flex-col xl:flex-row">
-      <div className="flex w-full items-center justify-between xl:justify-start xl:order-1  order-2 ">
-        <div className="w-1/2 mr-[14px] xl:w-[178px]">
-          <SelectInput
-            placeholder="Izaberi godinu"
-            bordered={false}
-            className="border-[1px] text-ltgray border-border rounded-[20px] w-full "
-            suffixIcon={<DownOutlined className="text-selectText" />}
-            onChange={(value) => {
-              handleFiltersChange("selectedYear", value);
-            }}
-            options={["2023", "2022"]}
-          />
+    <form className="flex justify-start  w-4/6 md:w-1/2 xl:space-x-[14px] flex-col xl:flex-row">
+      <FormProvider {...methods}>
+        <div className="flex w-full items-center justify-between xl:justify-start xl:order-1  order-2 ">
+          <div className="w-[48%] md:w-1/2 md:mr-[14px] xl:w-[178px]">
+            <FormSelectInput
+              options={["2023", "2022", "2021"]}
+              name="selectedYear"
+              className="text-ltgray border-[1px] border-border rounded-[20px]"
+              bordered={false}
+              placeholder="Izaberi godinu"
+              enableReset
+              resetOption="Izaberi godinu"
+            />
+          </div>
+          <div className="w-[48%] md:w-1/2 xl:max-w-[233px] xl:w-[40%] xl:min-w-[180px] ">
+            <FormSelectInput
+              options={{
+                queryKey: "select-courses",
+                queryFn: getSelectCourses,
+              }}
+              name="selectedCategory"
+              className="text-ltgray border-[1px] border-border rounded-[20px]"
+              bordered={false}
+              placeholder="Izaberi kategoriju"
+              enableReset
+              resetOption="Izaberi kategoriju"
+            />
+          </div>
         </div>
-        <div className="w-1/2 xl:max-w-[233px] xl:w-[40%] xl:min-w-[180px] ">
-          <SelectInput
-            placeholder="Izaberi kategoriju"
-            bordered={false}
-            className="border-[1px] border-border rounded-[20px] w-full"
-            suffixIcon={<DownOutlined className="text-selectText" />}
-            onChange={(value) => {
-              handleFiltersChange("selectedCategory", value);
-            }}
-            options={[
-              "Android development",
-              "Frontend",
-              "Backend",
-              "Fullstack",
-            ]}
-          />
+        <div className="w-full flex-shrink-0 xl:max-w-[233px] min-w-[180px] xl:w-[40%]   order-1 xl:order-2 mb-2 xl:mb-0">
+          <FormSearchInput name="searchValue" placeholder="Pretraga.." />
         </div>
-      </div>
-      <div className="w-full flex-shrink-0 xl:max-w-[233px] min-w-[180px] xl:w-[40%]   order-1 xl:order-2 mb-2 xl:mb-0">
-        <SearchInput
-          placeholder="Pretraga.."
-          onChange={(event) =>
-            debounceValue(() => {
-              handleFiltersChange("searchValue", (event.target as any).value);
-            })
-          }
-        />
-      </div>
-    </div>
+      </FormProvider>
+    </form>
   );
 };
 

@@ -1,6 +1,6 @@
 interface IDefaultInputProps {
   name: string;
-  label: string;
+  label?: string;
   required?: boolean;
 }
 

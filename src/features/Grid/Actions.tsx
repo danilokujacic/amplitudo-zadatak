@@ -7,7 +7,7 @@ import exportIcon from "../../core/assets/icons/export.svg";
 
 const GridActions = () => {
   return (
-    <div className="flex items-center">
+    <div className="flex items-center flex-shrink-0">
       <IconButton
         className="mr-[31px]"
         icon={<img src={exportIcon} width="24" height="24" alt="plus" />}

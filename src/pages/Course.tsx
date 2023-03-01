@@ -26,7 +26,11 @@ const Course = () => {
   }, [data, refetch]);
 
   if (isLoading) {
-    return <Spin size="large" />;
+    return (
+      <div className="flex w-full h-full items-center justify-center">
+        <Spin size="large" />
+      </div>
+    );
   }
   return (
     <div className="flex flex-col">

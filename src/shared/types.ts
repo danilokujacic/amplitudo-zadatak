@@ -9,7 +9,9 @@ export type courseFilters = {
   selectedCategory: string | null;
 };
 
-export type SelectOption = { key: string | number; label: string } | string;
+export type SelectOption =
+  | { key: string | number | null; label: string }
+  | string;
 
 export type AsyncSelectOption = {
   queryKey: string;

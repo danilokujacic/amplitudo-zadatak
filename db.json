@@ -2586,16 +2586,17 @@
       "id": 213
     },
     {
+      "id": 214,
       "schedule": [
         "Utorak",
         "Ponedeljak",
         "Sreda"
       ],
-      "endDate": "2023-02-28T20:41:51.000Z",
-      "startDate": "2023-02-27T20:41:50.000Z",
+      "endDate": "2023-03-03T20:41:51.000Z",
+      "startDate": "2023-03-02T20:41:50.000Z",
       "mentor": "Sandra Djurovic",
       "name": "Web Development",
-      "id": 214
+      "year": "2023"
     },
     {
       "schedule": [

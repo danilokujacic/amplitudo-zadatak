@@ -18,12 +18,17 @@ import IDefaultInputProps from "./inputPropsType";
 
 interface IFormSelectInputProps extends IDefaultInputProps {
   options: SelectOption[] | AsyncSelectOption;
+  enableReset?: boolean;
+  resetOption?: string;
 }
 
 const FormSelectInput: FunctionComponent<
   Omit<SelectProps, "options"> & IFormSelectInputProps
 > = ({ options, label, required = false, ...props }) => {
-  const opts = useSelectOptions(options);
+  const opts = useSelectOptions(options, {
+    enableReset: !!props.enableReset,
+    resetOption: props.resetOption || "Ponisti",
+  });
   const selectOotions = useMemo(
     () => formatOptions(opts.options || []),
     [opts]

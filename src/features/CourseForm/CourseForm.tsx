@@ -67,9 +67,6 @@ const CourseForm: FunctionComponent<ICourseFormProps> = ({ data, id }) => {
     resolver: yupResolver(schema),
   });
 
-  console.log(methods.formState.errors);
-  console.log(methods.formState);
-  console.log(methods.watch());
   const onSubmit = (formData: any) => {
     mutate({ id, ...formData });
   };
